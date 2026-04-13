@@ -35,4 +35,4 @@ Certifique-se de ter o Python instalado em sua máquina.
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/desafio-xadrez-python.git](https://github.com/seu-usuario/desafio-xadrez-python.git)
+   git clone [https://github.com/CRFjonathas/desafio-xadrez-python.git](https://github.com/CRFjonathas/desafio-xadrez-python.git)
